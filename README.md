@@ -97,5 +97,3 @@ The first save file in the collection features a **superflat world** that includ
 * **Bug Reporting**：Submit issues for version-specific bugs (especially below 1.16)
 
 * **BUG 反馈**：若遇到版本相关 BUG（尤其 1.16 以下版本），可提交 issue 反馈
-
-> （注：文档部分内容可能由 AI 生成）
